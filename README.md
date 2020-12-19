@@ -10,7 +10,7 @@
    Aplicación para buscar imagenes usando la API de Pixabay
     <br />
     <br />
-    <a href="https://apigithubjobsapp-jc.netlify.app/">View Demo</a>
+    <a href="https://apipixabayapp-jc.netlify.app/">View Demo</a>
   </p>
 </p>
 
